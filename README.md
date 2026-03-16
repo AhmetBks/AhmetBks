@@ -1,14 +1,11 @@
+
+
 <div align="center">
 
-<img src="https://www.kozmoslisesi.com/wp-content/uploads/2020/09/programlama-dilleri.jpg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Ahmet%20Buğra%20Kuşcu&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=65"/>
 
-# Ahmet Buğra Kuşcu
+<img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=28&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer"/>
 
-### Computer Engineering Student | Full Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;"/>
-
-</div>
 
 ---
 
@@ -80,10 +77,10 @@ Technologies
 
 https://github.com/AhmetBks/Who_wants_to_be_a_millionaire
 
--A C++ backend game server
--A Node.js adapter layer
--A modern Next.js frontend
--Docker containerization for easy deployment
+- A C++ backend game server
+- A Node.js adapter layer
+- A modern Next.js frontend
+- Docker containerization for easy deployment
 
 ---
 
@@ -91,7 +88,7 @@ https://github.com/AhmetBks/Who_wants_to_be_a_millionaire
 
 https://github.com/AhmetBks/FarmGame
 
--Java
+- Java
 
 ---
 
@@ -99,7 +96,7 @@ https://github.com/AhmetBks/FarmGame
 
 https://github.com/AhmetBks/abk_website
 
-Personal developer website.
+- Personal developer website.
 
 ---
 
@@ -133,17 +130,24 @@ Clear the maze and escape the ghosts 👻
 
 ---
 
-# 📫 Connect With Me
 
-GitHub  
-https://github.com/AhmetBks
+## 📫 Connect With Me
 
-LinkedIn  
-https://www.linkedin.com/in/ahmet-bu%C4%9Fra-ku%C5%9Fcu-46a193247/
+<div align="center">
 
-Email  
-ahmet.kuscu1@hotmail.com
+<a href="https://github.com/AhmetBks">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
+<a href="https://www.linkedin.com/in/ahmet-bu%C4%9Fra-ku%C5%9Fcu-46a193247/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:ahmet.kuscu1@hotmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
 ---
 
 #⭐ Always building. Always learning.
