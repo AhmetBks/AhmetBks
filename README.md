@@ -102,15 +102,11 @@ https://github.com/AhmetBks/abk_website
 
 # 🎮 Play Pac-Man
 
-<div align="center">
-
-<a href="https://ahmetbks.github.io/pacman-game">
-
-<img src="https://img.shields.io/badge/PLAY-PACMAN-yellow?style=for-the-badge&logo=ghost&logoColor=black"/>
-
-</a>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetBks/AhmetBks/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetBks/AhmetBks/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AhmetBks/AhmetBks/output/pacman-contribution-graph.svg">
+</picture>
 
 Clear the maze and escape the ghosts 👻
 
